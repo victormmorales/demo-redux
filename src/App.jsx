@@ -1,7 +1,9 @@
+import { Index } from "./pages";
+
 const App = () => {
   return (
     <div className="container">
-      <h1>App redux</h1>
+      <Index />
     </div>
   );
 };

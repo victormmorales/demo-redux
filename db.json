@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first-name": "user1",
+      "email": "correo1@correo.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "first-name": "user2",
+      "email": "correo2@correo.com",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "first-name": "user3",
+      "email": "correo3@correo.com",
+      "password": "123456"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "product1",
+      "price": "10",
+      "category": "games",
+      "img": "https://es.shein.com/Multi-functional-Game-Controller-p-10480910-cat-3353.html?url_from=esadplase2204293377953107one-size_GPM&cid=16960781750&setid=&adid=&pf=GOOGLE&gclid=Cj0KCQjwlemWBhDUARIsAFp1rLVmvnzViBnRtiB8oCwFS1HeKkxS5VFZIkh_PtAR7fsljL54GgEwfVIaAlx8EALw_wcB"
+    },
+    {
+      "id": 2,
+      "name": "product2",
+      "price": "20",
+      "category": "industry",
+      "img": "https://www.comprarpegamento.com/loctite-7063-400-ml/26"
+    },
+    {
+      "id": 3,
+      "name": "product3",
+      "price": "30",
+      "category": "home",
+      "img": "https://cecotec.es/es/humidificadores/pure-aroma-300-yin?gclid=Cj0KCQjwlemWBhDUARIsAFp1rLX8N6mmyrpYOe9SejRIUaXCX3Qq_yf5Leoqt-hku9F4CBcBhl5QInsaArF_EALw_wcB"
+    }
+  ]
+}
