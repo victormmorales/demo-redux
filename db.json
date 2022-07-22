@@ -2,19 +2,19 @@
   "users": [
     {
       "id": 1,
-      "first-name": "user1",
+      "name": "user1",
       "email": "correo1@correo.com",
       "password": "123456"
     },
     {
       "id": 2,
-      "first-name": "user2",
+      "name": "user2",
       "email": "correo2@correo.com",
       "password": "123456"
     },
     {
       "id": 3,
-      "first-name": "user3",
+      "name": "user3",
       "email": "correo3@correo.com",
       "password": "123456"
     }
