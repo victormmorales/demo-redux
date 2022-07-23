@@ -23,8 +23,6 @@ export const Home = () => {
     });
   }, []);
 
-  console.log(products);
-
   return (
     <>
       <h2>Home</h2>
